@@ -1,0 +1,3 @@
+---QuickSort Problem---
+> Calculating QuickSort by always choosing the median of first, last, and middle element(median of three) in an array as pivot...
+The number of comparison = 55

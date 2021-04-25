@@ -1,0 +1,9 @@
+---QuickSort Problem---
+> Calculating QuickSort by always choosing the first element in an array as pivot...
+The number of comparison = 162085
+---QuickSort Problem---
+> Calculating QuickSort by always choosing the last element in an array as pivot...
+The number of comparison = 164123
+---QuickSort Problem---
+> Calculating QuickSort by always choosing the median of first, last, and middle element(median of three) in an array as pivot...
+The number of comparison = 138382
